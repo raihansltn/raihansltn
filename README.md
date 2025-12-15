@@ -2,7 +2,7 @@
 
 An undergraduate Computer Science student at Universitas Ary Ginanjar. I’m a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
 
-I'm currently doing research for VT Sec. & Int. Lab. working on Formal Methods and LLM Security. I also conduct research for AIRDU Research Group of Universitas Ary Ginanjar, and some small research projects in my personal lab.
+I'm currently doing research for [VT Security & Intelligence Lab](https://people.cs.vt.edu/penggao/lab.html). working on Formal Methods and LLM Security. I also conduct research for AIRDU Research Group of Universitas Ary Ginanjar, and some small research projects in my personal lab.
 
 To be precise, my research areas and interests:
 
